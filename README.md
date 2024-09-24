@@ -1,2 +1,5 @@
-#### ONNX-Metadata-Annotator (set_onnx_metadata.py)
-ONNX-Metadata-Annotator is a utility script designed to streamline the process of adding metadata to ONNX models. This tool allows users to enrich their ONNX models with custom metadata.
+#### ONNX Metadata Annotator: onnx-metadata-annotator.py
+Application for adding custom metadata to an ONNX model.
+
+#### ONNX Model Validator: onnx-model-validator.py
+Application for comparing ONNX model compatibility.
