@@ -31,7 +31,9 @@ METADATA = {
     "model_author": 'String: Original author of the model architecture, e.g., clees',
     "model_license": 'String: License for the model, e.g., Apache 2.0',
     "model_version": 'Integer: Nth version of the model distributed to NV5, e.g., 1, 2, etc.',
-    "model_date": 'String: Date for which the model is ready, e.g., 2025-01-01'
+    "model_date": 'String: Date for which the model is ready, e.g., 2025-01-01',
+    "image_width": 'Integer: Value indicating the width of the input image.',
+    "image_height": 'Integer: Value indicating the height of the input image.'
 }
 
 TYPES = {
